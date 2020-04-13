@@ -255,4 +255,5 @@ def stats():
     return render_template('stats.html', title='Statistics', form=form)
 
 if __name__ == "__main__": 
+    # Running flask in debug mode
     app.run(port=5000, debug=True)
