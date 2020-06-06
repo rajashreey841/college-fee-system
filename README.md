@@ -1,4 +1,5 @@
 # College Fee System
+College Fee Payment System is basically a web based application that facilitates reporting, new student details, payment details and modify details of student and salary of the accountant. It allows payment of fees online which ensures transparency and a clear understanding of the cost of course fee. Make the payment using internet/telephone banking or at your local bank. Ensures that 100% of the funds transferred reach the college and that no expensive bank charges are deducted that may delay your registration.
 
 ## Getting Started
 1. Open CMD prompt as administrator
